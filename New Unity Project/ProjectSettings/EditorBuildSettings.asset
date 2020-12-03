@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HiraganaMenu.unity
+    guid: 8528786f7cc6a034f83a15b4f2d6502e
   m_configObjects: {}
